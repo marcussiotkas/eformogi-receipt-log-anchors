@@ -1,10 +1,10 @@
 {
-  "chain_hash": "8a1f9d5cb0917881e4b6d4f5db74e04c8d6a643ae4c486be0b1c96ba1d2c40cc",
+  "chain_hash": "ce2dcdda134b424241eebd857633d9f581a46cea242e4ef858009a8fcd0f25ac",
   "key_id": "did:web:eformogi.com#key-1",
   "log_id": "eformogi-receipt-log-v1",
-  "root_hash": "df4a3041a2741edada7a574c6be8bc04616d4ba2a9c60e4a8dc97665b34d495a",
-  "timestamp": "2026-09-17T04:30:46.866Z",
-  "tree_size": 109,
+  "root_hash": "1884fd0990cf68dda5febd8bf0e48552ecd861d923e57442664ffa95c84e879a",
+  "timestamp": "2026-09-22T04:30:46.576Z",
+  "tree_size": 113,
   "version": 1,
-  "signature": "ztEMJGvYEHx8D31Phqr1fitL2HThGyCGyksMtTM1VJwkcw3Dn3zfb8iArME8esxEeMsBNAQVD4SFBgvDm1ycw68Y"
+  "signature": "z3Q7PxpNZWKbp2k9qoDpJikZ6ih3aZZiYwKuu7NVELwic26sswbRTTKuq6CCXEGu8tkmiqk9kmJaZJQcBkzDt4v8F"
 }
