@@ -1,0 +1,16 @@
+The Record: protocol specification and reference verifier
+Copyright (c) 2026 Eformogi, Inc.
+
+The specification chapters in this directory (README.md, 01 through 11,
+and this NOTICE) are licensed under the Creative Commons Attribution 4.0
+International license. The full text is in spec/LICENSE.
+
+The reference verifier and the conformance vectors under spec/verifier/
+are licensed under the Apache License, Version 2.0. The full text is in
+spec/verifier/LICENSE.
+
+"Eformogi" and the Eformogi logo are not licensed by either license. See
+spec/LICENSING.md.
+
+Nothing outside spec/ is licensed by either license. The rest of this
+repository stays under the proprietary license at the repository root.
