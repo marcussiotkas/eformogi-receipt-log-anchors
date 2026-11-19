@@ -1,0 +1,41 @@
+{
+  "name": "@eformogi/verify-offline",
+  "version": "0.1.0",
+  "description": "Offline verifier for The Record, protocol draft 0.1: checks a receipt proof against the signed, publicly anchored receipt log with no network and no account, and runs the conformance vectors.",
+  "license": "Apache-2.0",
+  "author": "Eformogi, Inc.",
+  "homepage": "https://eformogi.com/spec/verifier",
+  "main": "index.js",
+  "bin": {
+    "verify-offline": "./verify-offline.js"
+  },
+  "files": [
+    "index.js",
+    "verify-offline.js",
+    "run-vectors.sh",
+    "vectors/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "sh ./run-vectors.sh"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "eformogi",
+    "witness-transcript",
+    "verifiable-credentials",
+    "transparency-log",
+    "merkle",
+    "ed25519",
+    "learner-record",
+    "homeschool",
+    "transcript",
+    "verification"
+  ]
+}
